@@ -31,6 +31,7 @@ conditional_layers {
    	 	};
 	};
 
+/ {
     keymap {
         compatible = "zmk,keymap";
 
