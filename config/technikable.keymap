@@ -48,7 +48,7 @@ conditional_layers {
             bindings = <
 &kp EXCL       &kp AT   &kp POUND &kp DLLR  &kp PRCNT &none    &none &kp CARET &kp AMPS &kp ASTRK &kp LPAR &kp RPAR
 &kp N1         &kp N2   &kp N3    &kp N4    &kp N5    &none    &none &kp N6    &kp N7   &kp N8    &kp N9   &kp N0  
-&mt LSHFT BSLH &kp LBKT &kp RBKT  &kp GRAVE &kp TILDE &none    &none &kp MINUS &kp PLUS &kp COMMA &kp DOT  &mt RSHFT FLSH
+&mt LSHFT BSLH &kp LBKT &kp RBKT  &kp GRAVE &kp TILDE &none    &none &kp MINUS &kp PLUS &kp COMMA &kp DOT  &mt RSHFT FSLH
                         &none     &trans    &trans   &trans    &kp BSPC &kp SPACE &kp EQUAL &none
             >;
         };
